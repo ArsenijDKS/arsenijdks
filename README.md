@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsenij Kudravcev</h1>
-<h3 align="center">A passionate Dart&Flutter developer from Kazan, Russia</h3>
+<h3 align="center">A passionate Dart&Flutter Developer from Kazan, Russia</h3>
 
 - 🔭 I’m currently working on **Decide! Career App**
 
