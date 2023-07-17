@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arsenij Kudravcev</h1>
 <h3 align="center">A passionate Dart&Flutter developer from Kazan, Russia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsenijdks" alt="arsenijdks" /></a> </p>
-
 - 🔭 I’m currently working on **Decide! Career App**
 
 - 🌱 I’m currently learning **Flutter, BLoC, OOP, MVC, MVP, KISS, DRY, YAGNI, BDUF, SOLID, APO**
 
-- 👯 I’m looking to collaborate on **as Dart & Flutter Developer**
+- 👯 I am looking for a job as **Dart & Flutter Developer**
 
 - 📫 How to reach me **ars.manag@yandex.ru**
 
@@ -22,6 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsenijdks&show_icons=true&locale=en&layout=compact" alt="arsenijdks" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsenijdks&show_icons=true&locale=en" alt="arsenijdks" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsenijdks&" alt="arsenijdks" /></p>
-
