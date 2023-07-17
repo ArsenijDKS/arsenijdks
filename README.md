@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:ars.manag@yandex.ru" target="blank"><img align="center" src="https://www.svgrepo.com/show/520408/yandex-start.svg" alt="@arsenisenji" height="30" width="40" /></a>
+<a href="mailto:ars.manag@yandex.ru" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/yandex_cyr-1024.png" alt="@arsenisenji" height="30" width="40" /></a>
 <a href="https://t.me/arsenisenji" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="@arsenisenji" height="30" width="40" /></a>
 <a href="https://instagram.com/@arsenisenji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arsenisenji" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arsenijdks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arsenijdks" height="30" width="40" /></a>
