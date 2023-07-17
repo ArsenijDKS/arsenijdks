@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Decide! Career App**
 
-- 👯 I’m looking to collaborate on **as Dart & Flutter Developer**
+- 👯 I am looking for a job **as Dart & Flutter Developer**
 
 - 📫 How to reach me **ars.manag@yandex.ru**
 
