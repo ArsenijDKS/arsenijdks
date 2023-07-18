@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, BLoC, OOP, MVC, MVP, KISS, DRY, YAGNI, BDUF, SOLID, APO**
 
-- 👯 I am looking for a job as **Dart & Flutter Intern Developer**
+- 👨‍💻 **I am looking for a job as Dart & Flutter Intern Developer**
 
 - 📫 How to reach me **ars.manag@yandex.ru**
 
