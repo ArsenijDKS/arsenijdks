@@ -30,6 +30,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Statistics:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsenijdks&show_icons=true&locale=en&layout=compact" alt="arsenijdks" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsenijdks&show_icons=true&locale=en" alt="arsenijdks" /></p>
