@@ -15,8 +15,6 @@
 <a href="mailto:ars.manag.gg@gmail.com" target="blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/13/Google-Logo.png" alt="@arsenisenji" height="30" width="30" /></a>
 <a href="https://t.me/arsenisenji" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="@arsenisenji" height="30" width="40" /></a>
 <a href="https://vk.com/porodoxal" target="blank"><img align="center" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo.png" alt="@arsenisenji" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/arsenijdks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arsenijdks" height="30" width="40" /></a>
-<a href="https://dev.to/arsenijdks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arsenijdks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,3 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsenijdks&show_icons=true&locale=en&layout=compact" alt="arsenijdks" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsenijdks&show_icons=true&locale=en" alt="arsenijdks" /></p>
+
+<h3 align="left">Social:</h3>
+<a href="https://www.leetcode.com/arsenijdks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arsenijdks" height="30" width="40" /></a>
+<a href="https://dev.to/arsenijdks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arsenijdks" height="30" width="40" /></a>
