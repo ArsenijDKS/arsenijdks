@@ -39,4 +39,4 @@
 <a href="https://www.leetcode.com/arsenijdks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arsenijdks" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/ArsenijDKS" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" alt="arsenijdks" height="30" width="40" /></a>
 <a href="https://dev.to/arsenijdks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arsenijdks" height="30" width="40" /></a>
-<a href="https://habr.com/ru/users/ArsenijDK/" target="blank"><img align="center" src="https://www.ph4.org/_RU/DL/LOGO/h/habr__.gif" alt="arsenijdks" height="30" width="40" /></a>
+<a href="https://habr.com/ru/users/ArsenijDK/" target="blank"><img align="center" src="https://www.ph4.org/_RU/DL/LOGO/h/habr__.gif" alt="arsenijdks" height="30" width="60" /></a>
