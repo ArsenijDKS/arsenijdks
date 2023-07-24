@@ -14,6 +14,7 @@
 <a href="mailto:ars.manag@yandex.ru" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/address-book-providers-in-colors/512/yandex_cyr-1024.png" alt="@arsenisenji" height="30" width="30" /></a>
 <a href="mailto:ars.manag.gg@gmail.com" target="blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/13/Google-Logo.png" alt="@arsenisenji" height="30" width="30" /></a>
 <a href="https://t.me/arsenisenji" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="@arsenisenji" height="30" width="40" /></a>
+<a href="https://uk.linkedin.com/in/arsenij-kudravcev-83b2a5284" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" alt="@arsenisenji" height="30" width="30" /></a>
 <a href="https://vk.com/porodoxal" target="blank"><img align="center" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo.png" alt="@arsenisenji" height="30" width="30" /></a>
 </p>
 
