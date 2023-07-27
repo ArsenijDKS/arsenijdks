@@ -43,4 +43,4 @@
 
 <h3 align="left">Algorithms:</h3>
 
-![Codewars](https://github.r2v.ch/codewars?user=ArsenijDKS&name=true&top_languages=true&stroke=%23b362ff)
+![Codewars](https://github.r2v.ch/codewars?user=ArsenijDKS&name=true)
