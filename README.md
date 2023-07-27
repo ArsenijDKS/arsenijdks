@@ -42,4 +42,5 @@
 <a href="https://habr.com/ru/users/ArsenijDK/" target="blank"><img align="center" src="https://www.ph4.org/_RU/DL/LOGO/h/habr__.gif" alt="arsenijdks" height="30" width="60" /></a>
 
 <h3 align="left">Algorithms:</h3>
-![Codewars](https://github.r2v.ch/codewars?user=ArsenijDKS&name=true&top_languages=true&stroke=%23b362ff&theme=green_dark)
+
+![Codewars](https://github.r2v.ch/codewars?user=ArsenijDKS&name=true&top_languages=true&stroke=%23b362ff)
