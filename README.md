@@ -44,3 +44,4 @@
 <h3 align="left">Algorithms:</h3>
 
 ![Codewars](https://github.r2v.ch/codewars?user=ArsenijDKS&name=true)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ArsenijDKS)
