@@ -40,3 +40,5 @@
 <a href="https://www.codewars.com/users/ArsenijDKS" target="blank"><img align="center" src="https://raw.githubusercontent.com/codewars/branding/1ff0d44db52ac4a5e3a1c43277dc35f228eb6983/logo.svg" alt="arsenijdks" height="30" width="30" /></a>
 <a href="https://dev.to/arsenijdks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arsenijdks" height="30" width="40" /></a>
 <a href="https://habr.com/ru/users/ArsenijDK/" target="blank"><img align="center" src="https://www.ph4.org/_RU/DL/LOGO/h/habr__.gif" alt="arsenijdks" height="30" width="60" /></a>
+
+![Codewars](https://github.r2v.ch/codewars?user=ArsenijDKS&top_languages=true)
