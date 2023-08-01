@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsenij Kudravcev</h1>
 <h3 align="center">A passionate Dart&Flutter developer from Kazan, Russia</h3>
 
-- 🔭 I’m currently working on **Decide! Career App**
+- 🔭 I’m currently working on **decide-career.com app**
 
 - 🌱 I’m currently learning **Flutter, BLoC, OOP, MVC, MVP, KISS, DRY, YAGNI, BDUF, SOLID, APO**
 
