@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **decide-career.com app**
 
-- 🌱 I’m currently learning **Flutter, BLoC, OOP, MVC, MVP, KISS, DRY, YAGNI, BDUF, SOLID, APO**
+- 🌱 I’m currently learning **Flutter framework, BLoC and State management**
 
 - 👨‍💻 **I am looking for a job as Dart & Flutter Intern Developer**
 
